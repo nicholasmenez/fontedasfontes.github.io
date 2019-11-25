@@ -1,0 +1,23 @@
+{
+  "name": "fontedasfontes.github.io",
+  "version": "1.0.0",
+  "description": "Um site pra voce ver como as suas fontes favoritas funcionam.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d fontedasfontes.github.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholasmenez/fontedasfontes.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicholasmenez/fontedasfontes.github.io/issues"
+  },
+  "homepage": "https://github.com/nicholasmenez/fontedasfontes.github.io#readme",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
